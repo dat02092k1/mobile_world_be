@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Oppo 20",
+      "price": "10000",
+      "description": "oppo-20-10k-china",
+      "id": "BSzgBju0oXCkuoiFDO1I6"
+    },
+    {
+      "name": "ip14",
+      "price": "35000",
+      "description": "ip14-35k",
+      "id": "Az4t35hiviPgJ9HmJMSXy"
+    },
+    {
+      "name": "iphonexs",
+      "price": "10000",
+      "description": "ipx10",
+      "id": "XwvYnR50pJyf2fxA3Ze8S"
+    },
+    {
+      "name": "iphone 5",
+      "price": "20000",
+      "description": "ip5-2000k",
+      "id": "kGkfdaZcKI6l3VT4YbUTL"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
